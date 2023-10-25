@@ -1,10 +1,6 @@
 # todo_flutter_01
  To Do  List
 
- Certainly, here's a combined description that includes all the descriptions for the various widgets and classes in your Flutter application:
-
-**ToDo List App Description**:
-
 This Flutter-based ToDo List app is designed to help users manage tasks and to-dos efficiently. It incorporates several key widgets and classes to create a user-friendly and visually appealing experience.
 
 **`MainApp` Class**:
